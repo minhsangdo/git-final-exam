@@ -1,0 +1,6 @@
+Tính năng mới: Hệ thống quản lý người dùng
+- Cho phép đăng ký tài khoản.
+- Cho phép đăng nhập/đăng xuất.
+- Quản lý quyền người dùng (admin/user).
+- Tích hợp xác thực qua email.
+- Giao diện thân thiện dễ sử dụng.
