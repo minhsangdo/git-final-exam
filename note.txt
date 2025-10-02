@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản hiệu quả.
 - Git hỗ trợ làm việc nhóm dễ dàng.
 - GitHub là nơi lưu trữ và chia sẻ mã nguồn.
+- Lệnh git diff giúp so sánh thay đổi.
+- Commit message nên rõ ràng và có ý nghĩa.
