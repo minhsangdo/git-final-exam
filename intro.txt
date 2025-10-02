@@ -14,3 +14,11 @@ Kỹ năng:
 - Lập trình C#, Python
 - Làm việc nhóm
 - Giao tiếp
+
+Kế hoạch học tập:
+- Hoàn thành khóa học Git trong học kỳ này.
+- Học thêm về Docker và CI/CD.
+- Luyện giải thuật hàng ngày trên LeetCode.
+- Tham gia các dự án nhóm để rèn kỹ năng teamwork.
+- Chuẩn bị chứng chỉ tiếng Anh để ra trường.
+
