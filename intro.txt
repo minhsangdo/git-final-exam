@@ -1,5 +1,9 @@
 Giới thiệu cá nhân:
+<<<<<<< HEAD
 Hello, this is Nguyễn Văn A
+=======
+Xin chào, tôi là Đỗ Minh Sang
+>>>>>>> feature-update
 - Hiện đang học môn Phát Triển Phần Mềm Mã Nguồn Mở.
 - Sở thích của tôi là thể thao và đàn.
 - Tôi mong muốn trở thành một lập trình viên giỏi.
