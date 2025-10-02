@@ -1,0 +1,24 @@
+Giới thiệu cá nhân:
+- Tôi là Đỗ Minh Sang, sinh viên khoa CNTT.
+- Hiện đang học môn Phát Triển Phần Mềm Mã Nguồn Mở.
+- Sở thích của tôi là thể thao và đàn.
+- Tôi mong muốn trở thành một lập trình viên giỏi.
+- Luôn cố gắng học hỏi để hoàn thiện bản thân.
+
+Sở thích:
+- Đọc sách
+- Chơi bóng đá
+- Nghe nhạc
+
+Kỹ năng:
+- Lập trình C#, Python
+- Làm việc nhóm
+- Giao tiếp
+
+Kế hoạch học tập:
+- Hoàn thành khóa học Git trong học kỳ này.
+- Học thêm về Docker và CI/CD.
+- Luyện giải thuật hàng ngày trên LeetCode.
+- Tham gia các dự án nhóm để rèn kỹ năng teamwork.
+- Chuẩn bị chứng chỉ tiếng Anh để ra trường.
+
